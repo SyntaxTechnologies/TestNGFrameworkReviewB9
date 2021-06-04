@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2634" started-at="2021-06-03T20:42:30 EDT" finished-at="2021-06-03T20:42:33 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2634" started-at="2021-06-03T20:42:30 EDT" finished-at="2021-06-03T20:42:33 EDT">
+      <class name="com.hrms.testcases.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrms.testcases.Login@4b553d26]" name="setUp" is-config="true" duration-ms="2365" started-at="2021-06-03T20:42:30 EDT" finished-at="2021-06-03T20:42:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoValidation()[pri:0, instance:com.hrms.testcases.Login@4b553d26]" name="logoValidation" duration-ms="150" started-at="2021-06-03T20:42:32 EDT" finished-at="2021-06-03T20:42:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrms.testcases.Login@4b553d26]" name="tearDown" is-config="true" duration-ms="85" started-at="2021-06-03T20:42:33 EDT" finished-at="2021-06-03T20:42:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrms.testcases.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
